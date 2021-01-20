@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+align-content: unset;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+  
+}
+.App {
+  display: inline;
+text-align: center;
+}
+
+.li {
+  display: inline;
+
+  float: right;
+  margin: 5px;
+}
+.menu {
+background-color: cadetblue;
+}
+
+
+.github-title{
+ 
+ background-size: 100px;
+  float: left;
+  color: black;
+font-size: 50px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.nav-name {
+  size: 30px;
+}
